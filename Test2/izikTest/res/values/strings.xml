@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">izikTest</string>
+    <string name="hello_world">Enter amount</string>
+    <string name="title_activity_izik">IzikActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="enter_sum">Enter Sum:</string>
+    <string name="select_pct">PCT:</string>
+    
+
+</resources>

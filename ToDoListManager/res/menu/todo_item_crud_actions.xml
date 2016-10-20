@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itmAddNewTodoItem" android:title="Add New" />
+    <item android:id="@+id/itmDeleteTodo" android:title="Delete" />
+    <item android:id="@+id/itmAddNewCall" android:title="Add New" />
+
+</menu>

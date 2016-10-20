@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;AutoCompleteExample&apos;" deleteContents="false" description="Delete resource &apos;AutoCompleteExample&apos;" element1="/AutoCompleteExample" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1426668849246"/>
+</session>

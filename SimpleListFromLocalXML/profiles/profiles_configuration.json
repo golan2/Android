@@ -1,0 +1,14 @@
+{
+  "profile": [
+    {
+      "name": "Home",
+      "gps": "Off",
+      "ringer": "30"
+    },
+    {
+      "name": "Out",
+      "gps": "On",
+      "ringer": "100"
+    }
+  ]
+}

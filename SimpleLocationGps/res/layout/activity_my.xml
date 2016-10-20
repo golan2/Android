@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello World, MyActivity"
+            android:id="@+id/txtTopOfScreen"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Open List"
+            android:id="@+id/btnOpenListActivity"/>
+
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:id="@+id/latSection">
+        <TextView
+                android:text="Enter Latitude:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:gravity="right"
+                android:id="@+id/latLabel" />
+        <EditText
+                android:text="47.7"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:id="@+id/latText"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_marginLeft="5dp" />
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:id="@+id/longSection">
+        <TextView
+                android:text="Enter Longitude:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:gravity="right"
+                android:id="@+id/longLabel" />
+        <EditText
+                android:text="-122.5"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:id="@+id/longText"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_marginLeft="5dp" />
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:id="@+id/weatherSection">
+        <TextView
+                android:text="Enter Longitude:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:gravity="right"
+                android:id="@+id/temperatureText" />
+        <ImageButton  android:layout_width="wrap_content" android:layout_height="match_parent" android:background="@android:drawable/stat_notify_sync"
+                      android:id="@+id/btnRefreshGpsLocation" />
+    </LinearLayout>
+
+
+</LinearLayout>
+

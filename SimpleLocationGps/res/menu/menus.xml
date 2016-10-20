@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/mgGroup1">
+        <item android:id="@+id/mnuOpenListOfColors" android:title="List of Colors"/>
+        <item android:id="@+id/mnuItem2" android:title="Item 2"/>
+    </group>
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profiles">
+        <item>Normal</item>
+        <item>Car</item>
+        <item>Work</item>
+        <item>Meeting</item>
+        <item>Night</item>
+    </string-array>
+
+    <string-array name="listForAutoCompleteExample">
+        <item>Normal</item>
+        <item>Car</item>
+        <item>Work</item>
+        <item>Meeting</item>
+        <item>Night</item>
+        <item>LastKnown</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="listColors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Purple</item>
+        <item>Blue</item>
+    </string-array>
+
+
+</resources>

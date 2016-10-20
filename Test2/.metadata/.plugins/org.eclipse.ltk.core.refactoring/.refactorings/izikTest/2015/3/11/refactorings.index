@@ -1,0 +1,8 @@
+1426087911172	Extract method 'OnCreate_btnCalculate'
+1426087946395	Extract method 'OnCreate_spinPCT'
+1426102384762	Extract local variable 'inetAddress'
+1426102866755	Extract local variable 'executor'
+1426102899795	Extract method 'run'
+1426112547414	Extract local variable 'buffer'
+1426112580871	Extract local variable 'hasMore'
+1426114455770	Extract local variable 'arrayList'

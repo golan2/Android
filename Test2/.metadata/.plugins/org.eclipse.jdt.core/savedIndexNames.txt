@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\golaniz\Documents\Izik\Java\Projects\Android\Test2\.metadata\.plugins\org.eclipse.jdt.core
+1841530073.index
