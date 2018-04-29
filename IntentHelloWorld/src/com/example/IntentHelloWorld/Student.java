@@ -2,8 +2,8 @@ package com.example.IntentHelloWorld;
 
 /**
  * <pre>
- * <B>Copyright:</B>   HP Software IL
- * <B>Owner:</B>       <a href="mailto:izik.golan@hp.com">Izik Golan</a>
+ * <B>Copyright:</B>   Izik Golan
+ * <B>Owner:</B>       <a href="mailto:golan2@hotmail.com">Izik Golan</a>
  * <B>Creation:</B>    25/03/2015 14:21
  * <B>Since:</B>       BSM 9.21
  * <B>Description:</B>
